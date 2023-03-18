@@ -1,0 +1,125 @@
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\futur\Desktop\ITI\c# .Net framework\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\futur\Desktop\ITI\3ouf project fatma\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\futur\Desktop\ITI\Connect4 game\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI PROJECTS\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\Rawan\Downloads\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.exe
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.deps.json
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\bin\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.AssemblyReference.cache
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form1.resources
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.Form2.resources
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.dll
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\refint\Connect4.dll
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.pdb
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\Connect4.genruntimeconfig.cache
+C:\Users\futur\Desktop\New folder (2)\last\check connect4-20230109T114523Z-001\check connect4\Connect4\Connect4\obj\Debug\net6.0-windows\ref\Connect4.dll
